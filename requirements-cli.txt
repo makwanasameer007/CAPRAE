@@ -1,0 +1,7 @@
+httpx[http2]>=0.27.2
+selectolax>=0.3.21
+pydantic>=2.7
+pandas>=2.2
+tldextract>=5.1
+rich>=13.7
+typer[all]>=0.12
