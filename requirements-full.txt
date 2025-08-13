@@ -1,0 +1,16 @@
+httpx[http2]>=0.27.2
+beautifulsoup4>=4.12.3
+selectolax>=0.3.21
+pydantic>=2.7
+pandas>=2.2
+pyarrow>=16.1
+duckdb>=1.0
+tldextract>=5.1
+fastapi>=0.111
+uvicorn[standard]>=0.30
+streamlit>=1.37
+rapidfuzz>=3.9
+email-validator>=2.2
+phonenumbers>=8.13
+rich>=13.7
+typer>=0.12
